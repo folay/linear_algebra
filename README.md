@@ -2,7 +2,7 @@
 Linear Algebra in depth
 
 1. Implement Linear Algebra Operations, such as:<br>
-    a. row operations<br>
+    a. row operations<br>
 
 2. Implement Linear Algebra Methods:<br>
     a. To determe if a matrix is invertible<br>
