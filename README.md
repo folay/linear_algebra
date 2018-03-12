@@ -8,4 +8,4 @@ Linear Algebra in depth
 	a. To determe if a matrix is invertible
 	b. To get its inverse if it's invertible
 
-3. The proofs of the above
+3. The proofs of the above 
